@@ -1,0 +1,33 @@
+.innerpages {
+  background-color: white;
+  color:black;
+}
+
+.innerpages h2 {
+  color:white;
+}
+
+.description {
+  padding-top: 50px;
+  font-family: 'PT Serif', serif;
+  line-height: 30px;
+}
+
+#carpDream h2 {
+  color: #ff3c00;
+  font-weight: bold;
+  text-shadow: 1px 1px #0a0a0a;
+  font-size: 2.5rem;
+  padding: 20px;
+}
+
+
+h5 {
+  line-height: 30px;
+}
+
+@media (max-width: 390px) {
+  h2 {
+    font-size: 1.5rem;
+  }
+}
