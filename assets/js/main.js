@@ -186,20 +186,20 @@
       clickable: true
     },
     breakpoints: {
-      320: {
+      389: {
         slidesPerView: 2,
-        spaceBetween: 40
+        spaceBetween: 20
       },
       480: {
         slidesPerView: 2,
-        spaceBetween: 40
+        spaceBetween: 20
       },
       640: {
-        slidesPerView: 2,
+        slidesPerView: 3,
         spaceBetween: 40
       },
       992: {
-        slidesPerView: 4,
+        slidesPerView: 3,
         spaceBetween: 40
       }
     }

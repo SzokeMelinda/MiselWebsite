@@ -684,8 +684,8 @@ section {
   @media (min-width: 280px) and (max-width: 478px) {
     
   .clients .img-fluid {
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 25px;
     border-radius: 50%;
    
   }
@@ -698,7 +698,7 @@ section {
 --------------------------------------------------------------*/
 
 #clients {
-  background-color: #ffa800;
+  background-color: #ff8c09;
 }
 
 #clients p {
@@ -732,7 +732,7 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #ffa800;
+  border: 1px solid #ff8c09;
 }
 
 .clients .swiper-pagination .swiper-pagination-bullet-active {
@@ -772,7 +772,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #ffa800;
+  background: #ff8c09;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -849,7 +849,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #ffa800;
+  color: #ff8c09;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -885,11 +885,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #ffa800;
+  border: 1px solid #ff8c09;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ffa800;
+  background-color: #ff8c09;
 }
 
 .portfolio-details .portfolio-info {
@@ -934,8 +934,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
-  border-top: 3px solid #ffa800;
-  border-bottom: 3px solid #ffa800;
+  border-top: 3px solid #ff8c09;
+  border-bottom: 3px solid #ff8c09;
   padding: 30px;
   background: #fff;
   width: 100%;
@@ -944,7 +944,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #ffa800;
+  color: #ff8c09;
   float: left;
   width: 44px;
   height: 44px;
@@ -991,7 +991,7 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #ffa800;
+  background: #ff8c09;
   color: #fff;
 }
 
@@ -1115,7 +1115,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #ffa800;
+  background: #ff8c09;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
