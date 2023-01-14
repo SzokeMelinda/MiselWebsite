@@ -681,13 +681,14 @@ section {
     display: none;
   }
 
-  @media (min-width: 280px) and (max-width: 478px) {
+  @media (min-width: 320px) and (max-width: 478px) {
     
-  .clients .img-fluid {
-    width: 35px;
-    height: 25px;
-    border-radius: 50%;
-   
+    .clients .img-fluid {
+      width: 10px;
+      height: 10px;
+    
+     
+     
   }
   }
 
@@ -708,8 +709,8 @@ section {
 }
 
 .clients .img-fluid {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
  
 }
